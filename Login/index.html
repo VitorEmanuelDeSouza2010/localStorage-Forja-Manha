@@ -20,8 +20,29 @@
         <div class="round">
             <img class="logo" src="./Images/Logo.jpg" alt="Logo">
         </div>
-        <h1>Gnomos Mafiosos.</h1>
+        <div class="wrap-input-label">
+          <label for="nome">nome</label>
+          <input type="text" id="nome" placeholder="Insira o Usuario">
+        </div>
+        
+        <div class="wrap-input-label">
+            <label for="senha">senha</label>
+            <input type="password" id="senha" placeholder="Insira a Senha">
+            <div onclick="showPassword()">
+                <img width="25px" src="./Images/eye.png" alt="Eye" class="eye" id="eye">
+            </div>
+        </div>
+        
+  
+        <button class="btn-login" onclick="login()">Login</button>
+
+
     </div>
+    <div class="error-div" id="error-modal">
+      <h3>Credenciais incorretas</h3>
+      <button onclick="fecharError()">❌</button>
+    </div>
+
     <script src="script.js"></script>
   </body>
 </html>
