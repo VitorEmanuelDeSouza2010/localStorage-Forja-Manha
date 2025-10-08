@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler1.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 2,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler2.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 3,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler3.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 4,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler4.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 5,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler5.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 6,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler6.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 7,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler7.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 8,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler8.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 9,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler9.webp",
+        "preco": 400.0
+    },
+    {
+        "id": 10,
+        "disc": "waterCooler 01",
+        "imagem": "./images/waterCooler10.webp",
+        "preco": 400.0
+    }
+]
